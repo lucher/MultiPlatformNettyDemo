@@ -12,13 +12,18 @@ lucher
   需要使用的依赖库：
   Install-Package DotNetty.Codecs
   Install-Package DotNetty.Handlers
-  Install-Package MessagePack
+  Install-Package MessagePack  
   Install-Package EventBus
 
 注：现在Demo中使用的端口号为"8888"，Java、C#、WebSocket中IP使用"127.0.0.1",Android中IP使用"192.168.1.111"
+
 根据实际情况进行修改，项目对应的修改位置为：
+
 1.NettyServer：com/netty/test/RunServer.java //Java Server
-               com/netty/test/RunClient.java //Java Client
-               web/index.html //WebSocket Client
+               com/netty/test/RunClient.java //Java Client  
+               web/index.html //WebSocket Client  
 2.NettyAndroid：com/netty/android/MainActivity.java //Android Client
 3.NettyCSharp：MainWindow.xaml.cs //C# Client
+
+效果图：
+![Java服务端](https://github.com/lucher/MultiPlatformNettyDemo/blob/master/%E6%95%88%E6%9E%9C%E5%9B%BE/Android%20Client.png)
