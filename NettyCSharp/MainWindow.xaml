@@ -1,0 +1,15 @@
+﻿<Window x:Class="NettyCSharp.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:NettyCSharp"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="450" Width="800">
+    <Grid HorizontalAlignment="Left" Height="407" Margin="10,10,0,0" VerticalAlignment="Top" Width="760">
+        <TextBox Name="TextBox" TextWrapping="Wrap" Text="我来了，大家久等了，太不容易了" VerticalAlignment="Top" Height="30"/>
+        <Button Content="Send" Margin="0,40,0,0" VerticalAlignment="Top" Click="Send_Click"/>
+        <TextBlock Name="TextBlock" Margin="0,67,0,0" VerticalAlignment="Top" Height="330"/>
+    </Grid>
+
+</Window>
