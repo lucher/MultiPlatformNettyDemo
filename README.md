@@ -23,14 +23,14 @@ Netty多语言（Java、Android 、C#、WebSocket）通信实例Demo
 
 效果图：
 ---
-![](https://github.com/lucher/MultiPlatformNettyDemo/blob/master/%E6%95%88%E6%9E%9C%E5%9B%BE/20190307-214118.mp4)
+![](https://github.com/lucher/MultiPlatformNettyDemo/blob/master/%E6%95%88%E6%9E%9C%E5%9B%BE/20190307-214118.gif)
 Java服务端  
 ![](https://github.com/lucher/MultiPlatformNettyDemo/blob/master/%E6%95%88%E6%9E%9C%E5%9B%BE/Java%20Server.png)
-Java客户端
+Java客户端  
 ![](https://github.com/lucher/MultiPlatformNettyDemo/blob/master/%E6%95%88%E6%9E%9C%E5%9B%BE/Java%20Client.png)
-Android客户端
+Android客户端  
 ![](https://github.com/lucher/MultiPlatformNettyDemo/blob/master/%E6%95%88%E6%9E%9C%E5%9B%BE/Android%20Client.png)
-C#客户端
+C#客户端  
 ![](https://github.com/lucher/MultiPlatformNettyDemo/blob/master/%E6%95%88%E6%9E%9C%E5%9B%BE/CShart%20Client.png)
-WebSocket客户端
+WebSocket客户端  
 ![](https://github.com/lucher/MultiPlatformNettyDemo/blob/master/%E6%95%88%E6%9E%9C%E5%9B%BE/WebSocket%20Client.png)
