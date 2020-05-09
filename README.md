@@ -1,7 +1,7 @@
 Netty多语言（Java、Android 、C#、WebSocket）通信实例Demo  
 ===
 包括Java、Android、C#、Websockt通信源码  
-博客地址：https://mp.csdn.net/postedit/88358240  
+博客地址：https://blog.csdn.net/lucherr/article/details/88358240  
 
 为了方便clone，把三个项目都放到了一起，项目目录介绍：  
 1.NettyServer：Java Netty 服务端，客户端，Websocket端  
